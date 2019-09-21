@@ -1,0 +1,20 @@
+/*css 選擇器  */
+        /*id 選擇器*/
+        #del{text-decoration:line-through;}
+        /*標籤名稱 選擇器*/
+        body{font-weight:bold;font-family:"cooper","微軟黑正體"}
+        /*CLASS 選擇器  最重要!!!!!*/
+        .back{background-color:tan}
+        .title{border: 5px solid black;
+                color:blueviolet;
+                font-size:80px;
+                font-weight:bold}
+        .word{background-color:teal;
+                width:600px;margin-top: 20px;
+                color:darkred;
+                border:2px solid yellow;
+                padding:15px;font-weight:bold}
+        .say{padding:10px;
+                margin-top: 20px}
+        .say2{color:slategray}
+        .bounce{text-decoration: underline}
